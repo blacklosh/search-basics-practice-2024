@@ -13,3 +13,8 @@
 В файле `index.p`  представлен инвертированный индекс сгенерированный eldar для сайта `https://info.cern.ch/hypertext/WWW/`
 
 В файле `inverted_index.txt`  представлен инвертированный индекс для сайта `https://info.cern.ch/hypertext/WWW/`
+
+### Запуск
+Для запуска необходимо установить две библиотеки:
+* `pip install eldar`
+* `pip install unicode`
